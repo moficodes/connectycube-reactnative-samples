@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116411471862",
+    "firebase_url": "https://empathy-b0d9b.firebaseio.com",
+    "project_id": "empathy-b0d9b",
+    "storage_bucket": "empathy-b0d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116411471862:android:c4e6e57e9e6427131d59d7",
+        "android_client_info": {
+          "package_name": "com.drepione.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116411471862-s4tcoi4n65141dghlmnmlqilio2c8vck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcDS-lGVoyxz49sXM-iBMF1J02cTw40sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116411471862-s4tcoi4n65141dghlmnmlqilio2c8vck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
